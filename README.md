@@ -12,7 +12,7 @@ If you want to learn more about MovementManager used to create smooth animations
 Before running this application, ensure that you have installed the Visual C++ Redistributable for Visual Studio 2015-2022. You can download it from the official Microsoft website [here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 
 ## License
-Copyright © 2024 by Triadziuch
+Copyright © 2024 by Anurag_RTXCR7
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
